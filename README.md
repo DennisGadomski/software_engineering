@@ -21,3 +21,4 @@ There is a branch for ASP.NET Core SignalR with React.js using *creat-react-app*
 
 Blog post for SignalR with React.js: [https://codingblast.com/asp-net-core-signalr-chat-react/](https://codingblast.com/asp-net-core-signalr-chat-react/)
  
+test
